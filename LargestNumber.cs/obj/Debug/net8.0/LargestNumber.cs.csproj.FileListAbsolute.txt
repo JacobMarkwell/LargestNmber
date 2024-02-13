@@ -1,0 +1,14 @@
+c:\Users\User\Desktop\LargestNmber\LargestNumber.cs\bin\Debug\net8.0\LargestNumber.cs.exe
+c:\Users\User\Desktop\LargestNmber\LargestNumber.cs\bin\Debug\net8.0\LargestNumber.cs.deps.json
+c:\Users\User\Desktop\LargestNmber\LargestNumber.cs\bin\Debug\net8.0\LargestNumber.cs.runtimeconfig.json
+c:\Users\User\Desktop\LargestNmber\LargestNumber.cs\bin\Debug\net8.0\LargestNumber.cs.dll
+c:\Users\User\Desktop\LargestNmber\LargestNumber.cs\bin\Debug\net8.0\LargestNumber.cs.pdb
+c:\Users\User\Desktop\LargestNmber\LargestNumber.cs\obj\Debug\net8.0\LargestNumber.cs.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\LargestNmber\LargestNumber.cs\obj\Debug\net8.0\LargestNumber.cs.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\LargestNmber\LargestNumber.cs\obj\Debug\net8.0\LargestNumber.cs.AssemblyInfo.cs
+c:\Users\User\Desktop\LargestNmber\LargestNumber.cs\obj\Debug\net8.0\LargestNumber.cs.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\LargestNmber\LargestNumber.cs\obj\Debug\net8.0\LargestNumber.cs.dll
+c:\Users\User\Desktop\LargestNmber\LargestNumber.cs\obj\Debug\net8.0\refint\LargestNumber.cs.dll
+c:\Users\User\Desktop\LargestNmber\LargestNumber.cs\obj\Debug\net8.0\LargestNumber.cs.pdb
+c:\Users\User\Desktop\LargestNmber\LargestNumber.cs\obj\Debug\net8.0\LargestNumber.cs.genruntimeconfig.cache
+c:\Users\User\Desktop\LargestNmber\LargestNumber.cs\obj\Debug\net8.0\ref\LargestNumber.cs.dll
